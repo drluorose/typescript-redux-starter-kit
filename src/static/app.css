@@ -1,0 +1,14 @@
+﻿html {
+    direction: ltr;
+    *overflow-y: scroll;
+    font-size: 62.5%;
+}
+body {
+    height: 100%;
+    font-size:140%;
+    background: #f7f7f7;
+     -webkit-user-select: inherit;
+    -moz-user-select: inherit;
+    -ms-user-select: inherit;
+    user-select: inherit;     
+}
