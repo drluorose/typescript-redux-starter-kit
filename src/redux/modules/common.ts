@@ -1,14 +1,14 @@
-﻿
+
 import { createAction, handleActions } from "redux-actions";
 
 //调用服务端接口
-import {queryGamesApi} from "../../../helper/applyClient";
+import { queryListApi } from "../../helper/testClient";
 
 
 // ------------------------------------
 // Action Type
 // ------------------------------------
-export const REQUEST_ERROR = "webchatapp/common/requesterror";
+export const REQUEST_ERROR = "myapp/common/requesterror";
 
 
 // ------------------------------------

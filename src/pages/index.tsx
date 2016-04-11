@@ -1,9 +1,6 @@
-import Apply from "./SelfService/Apply";
-import Category from "./SelfService/Category";
-import Detail  from "./SelfService/Detail";
-import MyList  from "./SelfService/MyList";
-import GameList  from "./SelfService/GameList";
+import MyList from "./test";
 
 
 
-export { Apply,Category,Detail,GameList,MyList} ;
+
+export { MyList } ;

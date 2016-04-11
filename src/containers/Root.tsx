@@ -1,6 +1,6 @@
 ﻿
-import DevRoot from "./Root.dev";
-import ProdRoot from "./Root.prod";
+import DevRoot from "./root.dev";
+import ProdRoot from "./root.prod";
 
 var Root;
 

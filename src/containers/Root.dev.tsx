@@ -1,6 +1,6 @@
 ﻿import * as React from "react"
 import { Router } from "react-router";
-import DevTools from "./DevTools";
+import DevTools from "./devTools";
 import createDevToolsWindow from "../redux/utils/createDevToolsWindow";
 
 export default class Root extends React.Component<any, any> {
